@@ -41,11 +41,11 @@ class BinTree:
 					return self.add_node(key,node = node.right)
 
 t=BinTree()  #インスタンス生成
-t.add_node(10)
-t.add_node(13)
-t.add_node(14)
-t.add_node(8)
-t.add_node(9)
+t.add_node(3)
+t.add_node(4)
+t.add_node(5)
+t.add_node(2)
+t.add_node(1)
 t.add_node(7)
-t.add_node(11)
-t.add_node(80)
+t.add_node(8)
+t.add_node(6)
