@@ -1,0 +1,3 @@
+def R():
+    return
+R()
